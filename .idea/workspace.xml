@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a95ae92c-499d-4f05-8e99-6839c0b23cdf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/sdgsdg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/3333/sdgsdg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +29,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/inspectionProfiles" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea/inspectionProfiles" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -39,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625998598016</updated>
-      <workItem from="1625998601585" duration="547000" />
+      <workItem from="1625998601585" duration="607000" />
     </task>
     <task id="LOCAL-00001" summary="commit----1">
       <created>1625998719285</created>
@@ -62,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625999037262</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit----222222">
+      <created>1625999178483</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1625999178483</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,25 +128,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit----1" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit----1" />
+    <MESSAGE value="commit----222222" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit----222222" />
   </component>
   <component name="WindowStateProjectService">
     <state x="572" y="313" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1625999162629">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="572" y="313" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.960@0.23.1680.960" timestamp="1625999162629" />
-    <state x="434" y="108" key="CommitChangelistDialog2" timestamp="1625999037164">
+    <state x="434" y="108" key="CommitChangelistDialog2" timestamp="1625999178383">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="434" y="108" key="CommitChangelistDialog2/0.23.1680.960@0.23.1680.960" timestamp="1625999037164" />
+    <state x="434" y="108" key="CommitChangelistDialog2/0.23.1680.960@0.23.1680.960" timestamp="1625999178383" />
     <state x="100" y="124" width="1480" height="759" key="DiffContextDialog" timestamp="1625998905580">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="100" y="124" width="1480" height="759" key="DiffContextDialog/0.23.1680.960@0.23.1680.960" timestamp="1625998905580" />
-    <state x="440" y="243" key="Vcs.Push.Dialog.v2" timestamp="1625999092563">
+    <state x="440" y="243" key="Vcs.Push.Dialog.v2" timestamp="1625999179997">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="440" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.960@0.23.1680.960" timestamp="1625999092563" />
+    <state x="440" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.960@0.23.1680.960" timestamp="1625999179997" />
     <state x="100" y="124" width="1480" height="759" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1625998996967">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
