@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a95ae92c-499d-4f05-8e99-6839c0b23cdf" name="Default Changelist" comment="commit----1">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/hhhsdg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1vAIj28gOnnim6OjlbzIhxNcaeb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a95ae92c-499d-4f05-8e99-6839c0b23cdf" name="Default Changelist" comment="" />
+      <created>1625998598016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625998598016</updated>
+      <workItem from="1625998601585" duration="242000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit----1">
+      <created>1625998719285</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625998719286</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit----1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit----1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="572" y="313" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1625998624718">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="572" y="313" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.960@0.23.1680.960" timestamp="1625998624718" />
+    <state x="434" y="108" key="CommitChangelistDialog2" timestamp="1625999003427">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="434" y="108" key="CommitChangelistDialog2/0.23.1680.960@0.23.1680.960" timestamp="1625999003427" />
+    <state x="100" y="124" width="1480" height="759" key="DiffContextDialog" timestamp="1625998905580">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="100" y="124" width="1480" height="759" key="DiffContextDialog/0.23.1680.960@0.23.1680.960" timestamp="1625998905580" />
+    <state x="440" y="243" key="Vcs.Push.Dialog.v2" timestamp="1625998866790">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="440" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.960@0.23.1680.960" timestamp="1625998866790" />
+    <state x="100" y="124" width="1480" height="759" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1625998996967">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="100" y="124" width="1480" height="759" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1680.960@0.23.1680.960" timestamp="1625998996967" />
+    <state x="629" y="427" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1625998950071">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="629" y="427" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.960@0.23.1680.960" timestamp="1625998950071" />
+    <state x="547" y="302" key="git4idea.merge.GitPullDialog" timestamp="1625998891645">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="547" y="302" key="git4idea.merge.GitPullDialog/0.23.1680.960@0.23.1680.960" timestamp="1625998891645" />
+  </component>
+</project>
