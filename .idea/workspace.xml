@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a95ae92c-499d-4f05-8e99-6839c0b23cdf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/3333/sdgsdg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/merge/merge5555" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/3333/sdgsdg" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/3333/sdgsdg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -11,6 +12,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
     <option name="UPDATE_TYPE" value="MERGE" />
@@ -44,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625998598016</updated>
-      <workItem from="1625998601585" duration="607000" />
+      <workItem from="1625998601585" duration="1090000" />
     </task>
     <task id="LOCAL-00001" summary="commit----1">
       <created>1625998719285</created>
@@ -74,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625999178483</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit----333333">
+      <created>1625999221569</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1625999221569</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,25 +142,26 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit----1" />
     <MESSAGE value="commit----222222" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit----222222" />
+    <MESSAGE value="commit----333333" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit----333333" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="572" y="313" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1625999162629">
+    <state x="572" y="313" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1625999710328">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="572" y="313" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.960@0.23.1680.960" timestamp="1625999162629" />
-    <state x="434" y="108" key="CommitChangelistDialog2" timestamp="1625999178383">
+    <state x="572" y="313" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.960@0.23.1680.960" timestamp="1625999710328" />
+    <state x="434" y="108" key="CommitChangelistDialog2" timestamp="1625999221473">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="434" y="108" key="CommitChangelistDialog2/0.23.1680.960@0.23.1680.960" timestamp="1625999178383" />
+    <state x="434" y="108" key="CommitChangelistDialog2/0.23.1680.960@0.23.1680.960" timestamp="1625999221473" />
     <state x="100" y="124" width="1480" height="759" key="DiffContextDialog" timestamp="1625998905580">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="100" y="124" width="1480" height="759" key="DiffContextDialog/0.23.1680.960@0.23.1680.960" timestamp="1625998905580" />
-    <state x="440" y="243" key="Vcs.Push.Dialog.v2" timestamp="1625999179997">
+    <state x="440" y="243" key="Vcs.Push.Dialog.v2" timestamp="1625999409117">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="440" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.960@0.23.1680.960" timestamp="1625999179997" />
+    <state x="440" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.960@0.23.1680.960" timestamp="1625999409117" />
     <state x="100" y="124" width="1480" height="759" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1625998996967">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
@@ -156,6 +170,10 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="629" y="427" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.960@0.23.1680.960" timestamp="1625999064570" />
+    <state x="624" y="302" key="git4idea.merge.GitMergeDialog" timestamp="1625999440213">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="624" y="302" key="git4idea.merge.GitMergeDialog/0.23.1680.960@0.23.1680.960" timestamp="1625999440213" />
     <state x="547" y="302" key="git4idea.merge.GitPullDialog" timestamp="1625999085737">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
